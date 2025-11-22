@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/ishancodes" target="blank"><img src="https://img.shields.io/twitter/follow/ishancodes?logo=twitter&style=for-the-badge" alt="ishancodes" /></a> </p>
 
-- 🔭 I’m currently working at **Serpview**
-
 - 🌱 I’m currently learning **NestJS**
 
 - 📝 I regularly tweet on [https://x.com/ishancodes](https://x.com/ishancodes)
